@@ -1,3 +1,4 @@
+<?php
 // config/marketplace.php
 return [
     'commission_rate' => env('MARKETPLACE_COMMISSION', 0.05),
